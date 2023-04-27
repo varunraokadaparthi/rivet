@@ -49,7 +49,7 @@ public class UserController {
     user.setUsername(newUser.getUsername());
     user.setUpassword(newUser.getUpassword());
     user.setGender(newUser.getGender());
-    user.setEmail_id(newUser.getEmail_id());
+    user.setEmailId(newUser.getEmailId());
     user.setFirstName(newUser.getFirstName());
     user.setLastName(newUser.getLastName());
     user.setHint(newUser.getHint());
